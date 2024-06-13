@@ -77,4 +77,15 @@ Below are detailed each directory:
 * src/model - Contains python code to build the machine learning pipeline.
 * src/notebooks - Contains Jupyter Notebooks with the analysis and implementation. 
 
-**P.S.:** There are available HTML files for a fast view of the Jupyter Notebook execution.
+**P.S.:** The Jupyter Notebooks were exported as .html files to view the Jupyter Notebooks execution in a fast way.
+
+# Deadline
+
+The table below shows the time taken for each step process for this challenge.
+
+| Step Process | Time Taken |
+| -- | -- |
+| Problem Understanding | 1 day |
+| Data Understanding | 2 day |
+| Exploratory Data Analysis | 2 day |
+| Modeling | 1 day |
